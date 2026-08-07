@@ -73,10 +73,10 @@
 
         NUM {
             bindings = <
-&trans  &trans          &trans          &trans           &trans                      &kp PLUS   &kp N7  &kp N8  &kp N9  &trans
-&kp AT  &kp LEFT_ARROW  &kp UP_ARROW    &kp RIGHT_ARROW  &kp F5  &kp F6      &trans  &kp MINUS  &kp N4  &kp N5  &kp N6  &trans
-&kp F7  &kp F8          &kp DOWN_ARROW  &trans           &trans  &trans      &trans  &kp N0     &kp N1  &kp N2  &kp N3  &trans
-&trans  &trans          &trans          &trans           &trans  &trans      &trans  &trans                             &trans
+&trans  &trans          &trans          &trans           &trans                         &kp PLUS   &kp N7  &kp N8  &kp N9  &trans
+&kp AT  &kp LEFT_ARROW  &kp UP_ARROW    &kp RIGHT_ARROW  &kp SLASH  &kp F6      &trans  &kp MINUS  &kp N4  &kp N5  &kp N6  &trans
+&kp F7  &kp F8          &kp DOWN_ARROW  &trans           &trans     &trans      &trans  &kp N0     &kp N1  &kp N2  &kp N3  &trans
+&trans  &trans          &trans          &trans           &trans     &trans      &trans  &trans                             &trans
             >;
         };
 
