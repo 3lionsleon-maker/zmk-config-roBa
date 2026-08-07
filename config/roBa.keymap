@@ -34,7 +34,7 @@
         };
 
         kana {
-            bindings = <&none>;
+            bindings = <&kp LANG_ZENKAKUHANKAKU>;
             key-positions = <18 19>;
         };
     };
