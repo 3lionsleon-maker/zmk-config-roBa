@@ -82,10 +82,10 @@
 
         symbol {
             bindings = <
-&kp EXCL   &kp QMARK      &kp AMPS   &kp PIPE          &kp TILDE                        &trans  &kp LEFT_BRACE        &kp DOUBLE_QUOTES  &kp RIGHT_BRACE        &kp AT
-&kp PLUS   &kp MINUS      &kp STAR   &kp FSLH          &kp PERCENT  &trans      &trans  &trans  &kp LEFT_PARENTHESIS  &kp SQT            &kp RIGHT_PARENTHESIS  &kp POUND
-&kp CARET  &kp LESS_THAN  &kp EQUAL  &kp GREATER_THAN  &kp DOLLAR   &trans      &trans  &trans  &kp LBKT              &kp UNDERSCORE     &kp RBKT               &kp BSLH
-&trans     &trans         &trans     &trans            &trans       &trans      &trans  &trans                                                                  &trans
+&kp LS(N1)     &kp LS(FSLH)  &kp LS(N6)     &kp LS(INT3)  &kp LS(EQUAL)  &trans  &kp LS(RBKT)  &kp LS(N2)    &kp LS(NUHS)  &kp LBKT
+&kp LS(SEMI)   &kp MINUS     &kp LS(SQT)    &kp FSLH      &kp LS(N5)     &trans  &trans        &trans        &kp LS(N8)    &kp LS(N7)  &kp LS(N9)    &kp LS(N3)
+&kp EQUAL      &kp LS(COMMA) &kp LS(MINUS)  &kp LS(DOT)   &kp LS(N4)     &trans  &trans        &trans        &kp RBKT      &kp LS(INT1) &kp NUHS      &kp INT1
+&trans         &trans        &trans          &trans        &trans          &trans  &trans        &trans        &trans
             >;
         };
 
